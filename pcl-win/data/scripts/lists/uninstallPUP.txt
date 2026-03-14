@@ -3,6 +3,7 @@ AVG Secure Search\Uninstall.exe
 {FBF3739B-717D-4429-BCEB-98D514E65F29}\Best Buy pc app Setup.exe
 Boost\uninstall.exe
 Dogpile Bundle Toolbar\Uninst.exe
+HP Games\Uninstall.exe
 FrostWire 5\Uninstall.exe
 IObit\Surfing Protection\unins000.exe
 Liveistream\uninstall.exe
